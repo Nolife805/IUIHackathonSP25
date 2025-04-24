@@ -1,0 +1,319 @@
+{
+    "time": "2025-04-24 17:11:13.578484",
+    "rooms": {
+        "Ball Residence Hall": {
+            "washersFree": 9,
+            "washersTotal": 10,
+            "dryersFree": 5,
+            "dryersTotal": 9,
+            "machines": {
+                "22": {
+                    "type": "washer",
+                    "available": true,
+                    "timeRemaining": 0
+                },
+                "30": {
+                    "type": "washer",
+                    "available": false,
+                    "timeRemaining": 0
+                },
+                "26": {
+                    "type": "washer",
+                    "available": true,
+                    "timeRemaining": 0
+                },
+                "21": {
+                    "type": "washer",
+                    "available": true,
+                    "timeRemaining": 0
+                },
+                "25": {
+                    "type": "washer",
+                    "available": true,
+                    "timeRemaining": 0
+                },
+                "23": {
+                    "type": "washer",
+                    "available": true,
+                    "timeRemaining": 0
+                },
+                "24": {
+                    "type": "washer",
+                    "available": true,
+                    "timeRemaining": 0
+                },
+                "39": {
+                    "type": "dryer",
+                    "available": false,
+                    "timeRemaining": 8
+                },
+                "29": {
+                    "type": "washer",
+                    "available": true,
+                    "timeRemaining": 0
+                },
+                "37": {
+                    "type": "dryer",
+                    "available": true,
+                    "timeRemaining": 0
+                },
+                "33": {
+                    "type": "dryer",
+                    "available": true,
+                    "timeRemaining": 0
+                },
+                "34": {
+                    "type": "dryer",
+                    "available": false,
+                    "timeRemaining": 14
+                },
+                "106": {
+                    "type": "dryer",
+                    "available": true,
+                    "timeRemaining": 0
+                },
+                "38": {
+                    "type": "dryer",
+                    "available": true,
+                    "timeRemaining": 0
+                },
+                "35": {
+                    "type": "dryer",
+                    "available": false,
+                    "timeRemaining": 20
+                },
+                "28": {
+                    "type": "washer",
+                    "available": true,
+                    "timeRemaining": 0
+                },
+                "27": {
+                    "type": "washer",
+                    "available": true,
+                    "timeRemaining": 0
+                },
+                "107": {
+                    "type": "dryer",
+                    "available": true,
+                    "timeRemaining": 0
+                },
+                "36": {
+                    "type": "dryer",
+                    "available": false,
+                    "timeRemaining": 19
+                }
+            }
+        },
+        "University Towers": {
+            "washersFree": 4,
+            "washersTotal": 8,
+            "dryersFree": 3,
+            "dryersTotal": 6,
+            "machines": {
+                "20": {
+                    "type": "dryer",
+                    "available": true,
+                    "timeRemaining": 0
+                },
+                "18": {
+                    "type": "dryer",
+                    "available": false,
+                    "timeRemaining": 34
+                },
+                "16": {
+                    "type": "dryer",
+                    "available": false,
+                    "timeRemaining": 1
+                },
+                "13": {
+                    "type": "washer",
+                    "available": false,
+                    "timeRemaining": 12
+                },
+                "3": {
+                    "type": "dryer",
+                    "available": true,
+                    "timeRemaining": 0
+                },
+                "9": {
+                    "type": "washer",
+                    "available": false,
+                    "timeRemaining": 4
+                },
+                "7": {
+                    "type": "washer",
+                    "available": true,
+                    "timeRemaining": 0
+                },
+                "1": {
+                    "type": "dryer",
+                    "available": true,
+                    "timeRemaining": 0
+                },
+                "15": {
+                    "type": "washer",
+                    "available": true,
+                    "timeRemaining": 0
+                },
+                "12": {
+                    "type": "washer",
+                    "available": true,
+                    "timeRemaining": 0
+                },
+                "10": {
+                    "type": "washer",
+                    "available": false,
+                    "timeRemaining": 1
+                },
+                "14": {
+                    "type": "washer",
+                    "available": false,
+                    "timeRemaining": 11
+                },
+                "11": {
+                    "type": "washer",
+                    "available": true,
+                    "timeRemaining": 0
+                },
+                "2": {
+                    "type": "dryer",
+                    "available": false,
+                    "timeRemaining": 7
+                }
+            }
+        },
+        "North Hall": {
+            "washersFree": 7,
+            "washersTotal": 12,
+            "dryersFree": 6,
+            "dryersTotal": 13,
+            "machines": {
+                "130": {
+                    "type": "dryer",
+                    "available": false,
+                    "timeRemaining": 0
+                },
+                "131": {
+                    "type": "dryer",
+                    "available": true,
+                    "timeRemaining": 0
+                },
+                "116": {
+                    "type": "washer",
+                    "available": false,
+                    "timeRemaining": 14
+                },
+                "126": {
+                    "type": "washer",
+                    "available": false,
+                    "timeRemaining": 24
+                },
+                "128": {
+                    "type": "washer",
+                    "available": false,
+                    "timeRemaining": 5
+                },
+                "127": {
+                    "type": "washer",
+                    "available": false,
+                    "timeRemaining": 24
+                },
+                "140": {
+                    "type": "dryer",
+                    "available": false,
+                    "timeRemaining": 76
+                },
+                "133": {
+                    "type": "dryer",
+                    "available": true,
+                    "timeRemaining": 0
+                },
+                "132": {
+                    "type": "dryer",
+                    "available": true,
+                    "timeRemaining": 0
+                },
+                "129": {
+                    "type": "washer",
+                    "available": true,
+                    "timeRemaining": 0
+                },
+                "111": {
+                    "type": "washer",
+                    "available": true,
+                    "timeRemaining": 0
+                },
+                "115": {
+                    "type": "washer",
+                    "available": true,
+                    "timeRemaining": 0
+                },
+                "114": {
+                    "type": "washer",
+                    "available": true,
+                    "timeRemaining": 0
+                },
+                "142": {
+                    "type": "dryer",
+                    "available": true,
+                    "timeRemaining": 0
+                },
+                "143": {
+                    "type": "dryer",
+                    "available": false,
+                    "timeRemaining": 67
+                },
+                "110": {
+                    "type": "washer",
+                    "available": true,
+                    "timeRemaining": 0
+                },
+                "108": {
+                    "type": "washer",
+                    "available": true,
+                    "timeRemaining": 0
+                },
+                "138": {
+                    "type": "dryer",
+                    "available": false,
+                    "timeRemaining": 87
+                },
+                "144": {
+                    "type": "dryer",
+                    "available": false,
+                    "timeRemaining": 67
+                },
+                "134": {
+                    "type": "dryer",
+                    "available": false,
+                    "timeRemaining": 32
+                },
+                "139": {
+                    "type": "dryer",
+                    "available": true,
+                    "timeRemaining": 0
+                },
+                "141": {
+                    "type": "dryer",
+                    "available": false,
+                    "timeRemaining": 67
+                },
+                "109": {
+                    "type": "washer",
+                    "available": false,
+                    "timeRemaining": 5
+                },
+                "137": {
+                    "type": "dryer",
+                    "available": true,
+                    "timeRemaining": 0
+                },
+                "125": {
+                    "type": "washer",
+                    "available": true,
+                    "timeRemaining": 0
+                }
+            }
+        }
+    }
+}
